@@ -409,6 +409,10 @@ hr {
     }
 
     .contacto {
+        display: flex;
+    }
+
+    .contacto {
         max-width: 800px;
         margin: 50px auto;
         padding: 40px;
@@ -486,6 +490,7 @@ hr {
     form button:hover {
         background-color: #8650D7;
     }
+    
     
 
 
