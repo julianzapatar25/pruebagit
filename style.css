@@ -490,6 +490,48 @@ hr {
     form button:hover {
         background-color: #8650D7;
     }
+
+    /* Sección precios */
+    .tabla-precios {
+        display: flex;
+    }
+
+    .tabla-precios {
+        max-width: 800px;
+        margin: 50px auto;
+        padding: 40px;
+        background-color: #ffffff;
+        box-shadow: 0 0 25px rgba(135, 141, 214, 0.2);
+        border-radius: 20px;
+        font-family: "Poppins", sans-serif;
+        color: #0E0E0E;
+    }
+    
+    .tabla-precios h2 {
+        font-size: 28px;
+        margin-bottom: 20px;
+        color: #7042B5;
+    }
+    
+    .tabla-precios p {
+        font-size: 16px;
+        color: #525254;
+        margin-bottom: 25px;
+    }
+    
+    .tabla-precios ul {
+        list-style: none;
+        padding-left: 0;
+        margin-bottom: 30px;
+    }
+    
+    .tabla-precios ul li {
+        margin-bottom: 10px;
+        font-size: 16px;
+    }
+
+
+    
     
     
 
